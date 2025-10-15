@@ -1,0 +1,8 @@
+# Understanding the "int" Data type in Python
+
+The int data type represents integer numbers - whole numbers without decimal points. 
+It's one of python's fundamental data types and is incredibly useful for counting, indexing, mathematical operations, and much more.
+
+# What is an Integer?
+	
+An integer is any whole number, whether positive, negative, or zero. In python, integers have unlimited precisoin, meaning you can work numbers as larger as your computer's memory allows, without losing accuracy.
